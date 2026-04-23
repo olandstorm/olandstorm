@@ -2,9 +2,8 @@
 
 ## Front end developer
 
-✨ Currently at [Medieinstitutet](https://github.com/Medieinstitutet) to become a front end developer  
+✨ Front end developer working at [Oh My](https://www.ohmy.se/)  
 ✨ Been working as a freelancing dancer for 15 years  
-✨ Looking forward to learn more frameworks in the next course coming up! 📚
 
 ## Tech stack
 
