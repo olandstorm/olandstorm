@@ -1,4 +1,4 @@
-![Oskar Landström](./hero_img.png)
+![Oskar Landström](./hero_image.png)
 
 ## Front-end Developer
 
